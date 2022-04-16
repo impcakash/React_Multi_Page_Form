@@ -1,0 +1,20 @@
+{
+    "todos": [
+        {
+            "name": "John",
+            "age": "35",
+            "date": "2022-04-16",
+            "required": true,
+            "id": 1
+        }
+    ],
+    "todos1": [
+        {
+            "stat": "Allen",
+            "addr": "alpha",
+            "pin": "123456",
+            "required": true,
+            "id": 1
+        }
+    ]
+}
